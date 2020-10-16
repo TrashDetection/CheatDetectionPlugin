@@ -1,0 +1,8 @@
+name: TrashDetection
+description: Ban, ban and ban
+version: 1.0
+
+author: isokissa3
+website: https://trashdetection.com
+
+main: net.goldtreeservers.cheatdetectionplugin.bungee.BungeeCheatDetectionPluginLoader
